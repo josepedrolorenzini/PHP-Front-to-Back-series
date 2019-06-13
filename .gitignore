@@ -1,0 +1,4 @@
+.env
+/vendor
+/site 8/db.php
+/site 8/.env
